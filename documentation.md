@@ -1,3 +1,7 @@
+---
+title: Documentation
+---
+
 ## Documentation
 
 - **Code Documentation:** Use JSDoc or TypeScript interfaces to document components, hooks, and complex logic. This helps other developers understand the code's purpose and usage.

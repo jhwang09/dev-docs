@@ -1,3 +1,7 @@
+---
+title: Error Handling
+---
+
 ## Error Handling and Logging
 
 - **Global Error Handling:** Implement a global error boundary to catch and handle runtime errors gracefully. Use libraries like [react-native-error-boundary](https://github.com/aidanlobato/react-native-error-boundary) for this purpose.

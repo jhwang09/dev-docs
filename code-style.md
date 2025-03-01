@@ -1,3 +1,7 @@
+---
+title: Code Style
+---
+
 ## Code Style and Structure
 
 - **Write Clean, Readable Code:** Ensure your code is easy to read and understand. Use descriptive names for variables and functions.

@@ -7,8 +7,6 @@ layout: home
 
 This document establishes consistent coding standards, architectural patterns, and best practices to ensure high-quality, maintainable code across applications.
 
-## Table of Contents
-
 - [Naming Conventions](#naming-conventions)
   - [Files and Folders](#files-and-folders)
   - [TypeScript](#typescript)
@@ -164,7 +162,7 @@ type ValidRequest = `${HTTPMethod} ${Endpoint}`;
 
 Use arrow function syntax with explicit typing:
 
-```typescript
+```
 import React from "react";
 
 interface ButtonProps {

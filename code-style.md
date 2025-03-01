@@ -1,5 +1,6 @@
 ---
 title: Code Style
+layout: home
 ---
 
 ## Code Style and Structure

@@ -1,5 +1,6 @@
 ---
 title: Documentation
+layout: home
 ---
 
 ## Documentation

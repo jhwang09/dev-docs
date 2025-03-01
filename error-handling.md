@@ -1,5 +1,6 @@
 ---
 title: Error Handling
+layout: home
 ---
 
 ## Error Handling and Logging

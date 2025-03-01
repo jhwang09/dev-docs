@@ -1,3 +1,8 @@
+---
+title: State Management
+layout: home
+---
+
 ## State Management
 
 - **Choose the Right Tool:** Depending on the complexity of the app, select an appropriate state management solution.

@@ -1,3 +1,8 @@
+---
+title: React Native
+layout: home
+---
+
 ## Additional Best Practices
 
 - **Threading Model Awareness:** Understand React Native's threading model and offload heavy computations to background threads using libraries like [react-native-workers](https://github.com/devfd/react-native-workers) or `InteractionManager` to keep the UI responsive.

@@ -1,4 +1,9 @@
-## React NativePerformance Optimization
+---
+title: Performance
+layout: home
+---
+
+## React Native Performance Optimization
 
 - **Optimize State Management:** Avoid unnecessary state updates and use local state only when needed to reduce re-renders.
 - **Memoization:** Use `React.memo()` for functional components to prevent unnecessary re-renders. Consider `useMemo` and `useCallback` for optimizing expensive calculations and function references.

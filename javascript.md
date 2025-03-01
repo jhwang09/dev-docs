@@ -1,3 +1,8 @@
+---
+title: JavaScript
+layout: home
+---
+
 ## JavaScript Usage
 
 - **Avoid Global Variables:** Minimize the use of global variables to prevent unintended side effects and maintain clean code.

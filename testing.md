@@ -1,3 +1,8 @@
+---
+title: Testing
+layout: home
+---
+
 ## Testing
 
 - **Write Tests:** Ensure the reliability of the codebase by writing tests for components, hooks, and business logic.

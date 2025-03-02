@@ -1,9 +1,10 @@
 ---
-title: Code Style and Structure
+title: Code Style
 layout: home
+nav_order: 2
 ---
 
-# Code Style and Structure
+# Code Style
 
 This document establishes consistent coding standards, architectural patterns, and best practices to ensure high-quality, maintainable code across applications.
 
@@ -162,7 +163,7 @@ type ValidRequest = `${HTTPMethod} ${Endpoint}`;
 
 Use arrow function syntax with explicit typing:
 
-```
+```typescript
 import React from "react";
 
 interface ButtonProps {
